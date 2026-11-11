@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "hackathonapp",
-    "slug": "hackathonapp",
+    "name": "expofrontend",
+    "slug": "expofrontend",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "hackathonapp",
+    "scheme": "expofrontend",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
